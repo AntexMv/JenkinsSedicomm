@@ -1,0 +1,8 @@
+---
+iosv-1:
+    hostname: '172.16.8.19'
+    port: 22
+    username: 'ADMSGSASW1'
+    password: 'ADM-SGSA-SW1-2018'
+    platform: 'cisco_ios'
+
